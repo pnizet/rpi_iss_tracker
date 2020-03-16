@@ -120,7 +120,7 @@ def main():
         trail.append((int(mapxy[0]),int(mapxy[1])))
         #print(trail)
         updateeink(loc,mapxy,trail)
-        time.sleep(30) #wait 3 minutes
+        time.sleep(180) #wait 3 minutes
 
 if __name__== '__main__':
     try:
