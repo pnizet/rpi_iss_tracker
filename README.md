@@ -7,4 +7,5 @@ This python script
 * display a worlmap with the current position and the last 60 position
 * display the name of the closest city and the distance to it
 
-Display is made on a Pimoroni Inky pHAT
+
+Deeply inspired by [this project](https://www.raspberryconnect.com/projects/39-programming/179-python-project-with-e-ink-display-iss-global-tracker) and adapted to a Pimoroni Inky pHAT
